@@ -16,9 +16,9 @@ To train the model, we have access to a dataset of 6,471 tweets that were alread
   - Documentation README
 
 - Notebook
-  - 
-  - 
-  - 
+  - xx
+  - yy
+  - zz
 
 ### Week 2
 
