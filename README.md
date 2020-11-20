@@ -15,7 +15,7 @@ To train the model, we have access to a dataset of 6,471 tweets that were alread
   - Repository initialisation and structure
   - Documentation README
 
--Notebook
+- Notebook
   - 
   - 
   - 
