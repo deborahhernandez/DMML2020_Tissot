@@ -16,12 +16,17 @@ To train the model, we have access to a dataset of 6,471 tweets that were alread
   - Documentation README
 
 - Notebook
-  - xx
-  - yy
-  - zz
+  - Modules importation
+  - Tokenizer function
+  - Simple pipeline model
 
 ### Week 2
+- Notebook
+  - Tokenizer optimization
+  - Model finetuning
 
 ### Week 3
 
-
+## Results 
+- More performing tokenizer and model 
+- 15 submissions in AIcrowd --> best accuracy : 0.814
