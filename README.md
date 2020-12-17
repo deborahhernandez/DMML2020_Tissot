@@ -52,4 +52,4 @@ To train the model, we have access to a dataset of 6,471 tweets that were alread
 - In this project: better to predict 0 than 1 (2x more false positives than false negatives) 
 
 ## Video
-Click there to see our video : 
+Click there to see our video : https://youtu.be/OAZbbAMxagE
