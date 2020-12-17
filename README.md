@@ -43,6 +43,8 @@ To train the model, we have access to a dataset of 6,471 tweets that were alread
 - Best accuracy : 0.832 on the 64 submission 
 - Best model : Logistic Regression , Tfidf
 
+![Precision](Documents/HistPrec.PNG)
+
 ## Lessons learned
 - Beware of over text cleaning
 - Emojis are important 
