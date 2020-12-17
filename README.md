@@ -19,14 +19,32 @@ To train the model, we have access to a dataset of 6,471 tweets that were alread
   - Modules importation
   - Tokenizer function
   - Simple pipeline model
+  - Exploration 
 
 ### Week 2
 - Notebook
   - Tokenizer optimization
   - Model finetuning
+  - Text cleaning
 
 ### Week 3
+- Notebook
+  - Vector and classifier optimization
+  - Start of the un-text cleaning (because of the over cleaning we did on week 2) 
+
+### Week 4
+- Notebook
+  - Un-text cleaning
+  - Model fine tuning --> best model
+  - Try of a custom model
 
 ## Results 
-- More performing tokenizer and model 
-- 15 submissions in AIcrowd --> best accuracy : 0.814
+- 78 submissions in AIcrowd 
+- Best accuracy : 0.832 on the 64 submission 
+- Best model : Logistic Regression , Tfidf
+
+## Lessons learned
+- Beware of over text cleaning
+- Emojis are important 
+- Base rate rebalancing is not always good 
+- In this project: better to predict 0 than 1 (2x more false positives than false negatives) 
